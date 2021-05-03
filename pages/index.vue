@@ -1,9 +1,10 @@
 <template>
   <div class="container">
     <div>
+    
       <Logo />
       <h1 class="title">
-        nuxt-docker
+        Wow, This is cool 😎
       </h1>
       <div class="links">
         <a
